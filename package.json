@@ -1,0 +1,21 @@
+{
+  "name": "rainbowbot",
+  "version": "2.0.0",
+  "description": "Rainbow Bot 24/7.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainbow",
+    "bot",
+    "discord",
+    "role"
+  ],
+  "author": "PabloEscobar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "randomcolor": "^0.5.3"
+  }
+}
